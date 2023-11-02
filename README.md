@@ -1,4 +1,4 @@
-# Special OOP based RockPaperScissor game
+# Special OOP-based RockPaperScissor game
 input: In one line, three numbers representing the power of rock, paper and scissors are given respectively.  
 output: A table in which the result of the fight of each device with three other devices is determined in each row (each device equalizes in the fight with itself).  
 
